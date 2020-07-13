@@ -1,0 +1,32 @@
+.....................................................
+.......... Descrição geral do app ...................
+
+
+A IDÉIA É CRIAR UM SISTEMA PARA UMA EMPRESA DO SETOR DE ENERGIA FOTOVOLTAICA.
+
+1. Além dos componentes de template: header, footer e sidenav, há uma tela inicial de 
+	boas vindas aos usuários com uma pequina orientação para ir para a sidenav;
+2. Na aba "Clientes" há um CRUD para cadastro, consulta, atualização e exclusão de
+	clientes.
+3. No formulário há 4 campos, nome, cpf, cadastro na cemig e consumo médio de energia
+	elétrica de um cliente expecífico.
+4. A idéia da última aba (não impletada), era fazer um segundo CRUD com um cadastro de
+	alocação de cliente para uma certa usina fotovoltaica da empresa. 
+	Esse usaria Radio, Select...
+
+Observações:
+
+1. A tela de login não foi impletada devido a sucetivos erros;
+2. O segundo CRUD não foi impletado evido ao tempo (tive que aprender enquanto fazia)
+
+
+=> Peço desculpas por não consiguir completar tudo o que foi pedido <=
+
+=> Achei ótimo esse tipo de seleção. Mesmo que não passe, aprendi muito! 
+=> Independente do resultado, agradeço!!
+
+
+.......  Quaisquer dúvidas estou a disposição.................
+
+
+
